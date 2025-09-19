@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: white;
+    background-color: black;
+    font-family: cursive;
+}td{
+    border: 2px solid aqua ;
+}th{
+    border: 2px solid aqua ;
+}a:link {
+    color: aqua ;
+}a:visited{
+    color: aqua ;
+}a:hover{
+    color: white;
+}h1{
+    box-sizing: border-box;
+    color: aqua;
+    background-color: black;
+    margin: 21px ;
+    padding:px;
+    border: 3px solid aqua;
+    height: 59px;
+    width: 365px;
+    padding-left: 9px;
+}a{
+    box-sizing: border-box;
+    background-color: black ;
+    padding: 5px;
+    margin: 12px;
+    border: 3px solid aqua ;
+    line-height: 3;
+}div{
+    color: aqua;
+}p{
+    color: aqua;
+}ul{
+    color: aqua;
+}table{
+    color: aqua;
+}input{
+    border: 2px solid aqua;
+}label{
+    
+    margin: 2px;   
+}::placeholder{
+    color: aqua;
+}data{
+    color: aqua;
+}select{
+    color: aqua;
+} 
