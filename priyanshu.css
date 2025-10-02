@@ -24,6 +24,7 @@ body{
   border: 3px solid aqua;
   width: fit-content;
   text-align: center;
+  /* text-align: center; to aling taxt in center */
 }
 a{
     box-sizing: border-box;
